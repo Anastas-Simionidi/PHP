@@ -1,0 +1,70 @@
+[
+    {
+        "id": "b_e17411514931",
+        "slot_id": "s001",
+        "student_name": "Симиониди Анастас",
+        "email": "anastassimionidi@email.com",
+        "comment": "Ис 24-22",
+        "status": "cancelled",
+        "created_at": "2026-10-18T19:12:54+06:00",
+        "history": [
+            {
+                "action": "created",
+                "at": "2026-10-18T19:12:54+06:00"
+            },
+            {
+                "action": "cancelled",
+                "at": "2026-10-18T19:22:49+06:00"
+            }
+        ]
+    },
+    {
+        "id": "b_1064710233dc",
+        "slot_id": "s002",
+        "student_name": "Симиониди Анастас",
+        "email": "anastas@email.com",
+        "comment": "123213",
+        "status": "cancelled",
+        "created_at": "2026-10-18T19:26:21+06:00",
+        "history": [
+            {
+                "action": "created",
+                "at": "2026-10-18T19:26:21+06:00"
+            },
+            {
+                "action": "cancelled",
+                "at": "2026-10-18T19:26:25+06:00"
+            }
+        ]
+    },
+    {
+        "id": "b_4320031b6e32",
+        "slot_id": "s001",
+        "student_name": "Симиониди Анастас",
+        "email": "anastas@email.com",
+        "comment": "",
+        "status": "active",
+        "created_at": "2026-10-18T19:27:50+06:00",
+        "history": [
+            {
+                "action": "created",
+                "at": "2026-10-18T19:27:50+06:00"
+            }
+        ]
+    },
+    {
+        "id": "b_b46b70fdac75",
+        "slot_id": "s002",
+        "student_name": "Симиониди Анастас",
+        "email": "anastas@email.com",
+        "comment": "",
+        "status": "active",
+        "created_at": "2026-10-18T19:28:08+06:00",
+        "history": [
+            {
+                "action": "created",
+                "at": "2026-10-18T19:28:08+06:00"
+            }
+        ]
+    }
+]
