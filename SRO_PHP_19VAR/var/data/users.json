@@ -1,0 +1,44 @@
+[
+    {
+        "id": "u1",
+        "role": "admin",
+        "name": "Администратор",
+        "email": "admin@test.com",
+        "password": "$2y$10$RhcNRRpgdL32GnEzjKqbmOSVRyCVYkl2VtaGB07pvSccA8QN.nNai"
+    },
+    {
+        "id": "u2",
+        "role": "teacher",
+        "name": "Рашидов Д.Р.",
+        "email": "teacher@test.com",
+        "password": "$2y$10$wTnZmz32f6QdChiqAFglN.jl81kg\/MGCg91zIZdyIZdXGMth480t6"
+    },
+    {
+        "id": "u3",
+        "role": "student",
+        "name": "Иванов И.И.",
+        "email": "student@test.com",
+        "password": "$2y$10$54Zdk29ptkH8Pc5jUIKhEeJZGbCNLKTihsb\/dAgiQuTNewaPflY.O"
+    },
+    {
+        "id": "u_231c4b61",
+        "role": "student",
+        "name": "Иван Иванов",
+        "email": "ivanov@email.com",
+        "password": "$2y$10$LYI83S3H5S9VQOv.kQI1F.HEmdao6GuDucO0IYA7t8TUg5PSSzYRy"
+    },
+    {
+        "id": "u_16be9cf0",
+        "role": "student",
+        "name": "Алмас",
+        "email": "almas@email.com",
+        "password": "$2y$10$W7goTUuzFTXF.cwXuJXk3O6cG7Kt\/WJE7ftIri5dFnB3Y4NFooLUu"
+    },
+    {
+        "id": "u_47b02df0",
+        "role": "teacher",
+        "name": "Владимир",
+        "email": "vladimir@email.com",
+        "password": "$2y$10$LUvRKywW.NcCaRBjOXILIuubewI6Oiy4fLBbbHMwE5fFxqdchGZQa"
+    }
+]

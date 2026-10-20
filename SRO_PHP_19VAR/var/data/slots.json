@@ -1,0 +1,72 @@
+[
+    {
+        "id": "s001",
+        "teacher_id": "u2",
+        "date": "2026-10-21",
+        "time": "09:00",
+        "duration": 30
+    },
+    {
+        "id": "s002",
+        "teacher_id": "u2",
+        "date": "2026-10-21",
+        "time": "11:00",
+        "duration": 30
+    },
+    {
+        "id": "s003",
+        "teacher_id": "u2",
+        "date": "2026-10-21",
+        "time": "14:00",
+        "duration": 30
+    },
+    {
+        "id": "s004",
+        "teacher_id": "u2",
+        "date": "2026-10-22",
+        "time": "09:00",
+        "duration": 30
+    },
+    {
+        "id": "s005",
+        "teacher_id": "u2",
+        "date": "2026-10-22",
+        "time": "11:00",
+        "duration": 30
+    },
+    {
+        "id": "s006",
+        "teacher_id": "u2",
+        "date": "2026-10-22",
+        "time": "14:00",
+        "duration": 30
+    },
+    {
+        "id": "s007",
+        "teacher_id": "u2",
+        "date": "2026-10-23",
+        "time": "09:00",
+        "duration": 30
+    },
+    {
+        "id": "s008",
+        "teacher_id": "u2",
+        "date": "2026-10-23",
+        "time": "11:00",
+        "duration": 30
+    },
+    {
+        "id": "s009",
+        "teacher_id": "u2",
+        "date": "2026-10-23",
+        "time": "14:00",
+        "duration": 30
+    },
+    {
+        "id": "s_10429392",
+        "teacher_id": "u_47b02df0",
+        "date": "2026-10-21",
+        "time": "13:00",
+        "duration": 40
+    }
+]
