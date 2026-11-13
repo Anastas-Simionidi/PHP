@@ -1,0 +1,28 @@
+{
+    "name": "student/library-catalog",
+    "description": "Интерактивная библиотечная система с автозагрузкой PSR-4",
+    "type": "project",
+    "license": "proprietary",
+    "require": {
+        "php": "^8.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "University\\CourseCatalog\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "University\\CourseCatalog\\Tests\\": "tests/"
+        }
+    },
+    "scripts": {
+        "check": [
+            "@php -l public/index.php",
+            "@php tests/run.php"
+        ]
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
